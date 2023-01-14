@@ -1,0 +1,20 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "esbonio.sphinx.confDir": "${workspaceFolder}/docs",
+    "python.linting.mypyEnabled": true,
+    "mypy.runUsingActiveInterpreter": true,
+    "cSpell.words": [
+        "addresscodec",
+        "aiounittest",
+        "altnet",
+        "asyncio",
+        "binarycodec",
+        "nftoken",
+        "rippletest",
+        "ripplex",
+        "xaddress"
+    ],
+}
